@@ -24,3 +24,20 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Built With
+
+  - HTML
+  - CSS
+  - JavaScript (React)
+
+## Authors
+
+  - **teo003**
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details.
+
